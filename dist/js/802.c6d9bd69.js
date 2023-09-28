@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrecruitery_clone_web"]=self["webpackChunkrecruitery_clone_web"]||[]).push([[802],{1802:function(e,r,n){n.r(r),n.d(r,{default:function(){return s}});var u=n(3396);function t(e,r){return(0,u.wg)(),(0,u.iD)("div",null,[(0,u.WI)(e.$slots,"default")])}var c=n(89);const l={},i=(0,c.Z)(l,[["render",t]]);var s=i}}]);
+//# sourceMappingURL=802.c6d9bd69.js.map

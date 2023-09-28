@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrecruitery_clone_web"]=self["webpackChunkrecruitery_clone_web"]||[]).push([[370],{7370:function(e,r,n){n.r(r),n.d(r,{default:function(){return l}});var t=n(3396);function u(e,r,n,u,o,c){const i=(0,t.up)("header-view"),s=(0,t.up)("footer-view");return(0,t.wg)(),(0,t.iD)("div",null,[(0,t.Wm)(i),(0,t.WI)(e.$slots,"default"),(0,t.Wm)(s)])}var o=n(9763),c=n(8273),i={components:{FooterView:c.Z,HeaderView:o.Z}},s=n(89);const a=(0,s.Z)(i,[["render",u]]);var l=a}}]);
+//# sourceMappingURL=370.4a5d0a45.js.map
